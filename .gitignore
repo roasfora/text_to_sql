@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Local environment variables
+.env
+.env.*
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Pytest / coverage / mypy
+.cache/
+.mypy_cache/
+.pytest_cache/
+coverage.*
+htmlcov/
+.tox/
+
+# Model/transformer cache
+*.ckpt
+*.bin
+*.safetensors
+*.pt
+*.t5
+*.onnx
+
+# HuggingFace Transformers / Datasets cache
+~/.cache/huggingface/
+~/.huggingface/
+huggingface/
+
+# Logs
+*.log
+query_log.txt
+
+# Data files
+/data/*
+!/data/.gitkeep
+
+# SQL dumps
+*.sql
+
+# VSCode
+.vscode/

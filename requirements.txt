@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+torch
+langchain
+sqlalchemy
+psycopg2-binary
+faiss-cpu
+python-dotenv
+pydantic
