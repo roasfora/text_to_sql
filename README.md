@@ -3,6 +3,10 @@
 
 A lightweight AI-powered FastAPI application that translates natural language queries into SQL using a fine-tuned T5 model and executes them on a PostgreSQL database. It enables non-technical users to explore data with plain English.
 
+<p align="center">
+  <img src="product.png" alt="product" width="600"/>
+</p>
+
 ---
 
 ## 🚀 Features
